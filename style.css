@@ -1,0 +1,20 @@
+.jumbotron {
+	background-color: rgb(196, 191, 191);
+	padding-top: 50px;
+}
+.about-section {
+	padding-top: 100px;
+}
+
+.col {
+	margin-bottom: 100px;
+}
+.project-section {
+	padding-top: 100px;
+}
+.tools-skill-section {
+	padding-top: 100px;
+}
+.contact-section {
+	padding-top: 100px;
+}
